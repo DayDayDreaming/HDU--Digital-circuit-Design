@@ -1,7 +1,7 @@
 # HDU--Digital-circuit-Design
 
 
-HDU 数字电路课程设计实验部分源码
+HDU 杭电数字电路课程设计实验部分源码
 
 
 ## 代码列表：
